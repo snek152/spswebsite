@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f55697a4.css",
+    "main.js": "/static/js/main.850c8f88.js",
+    "static/js/787.b945084b.chunk.js": "/static/js/787.b945084b.chunk.js",
+    "static/media/President.png": "/static/media/President.175d54550c0d271848f4.png",
+    "static/media/Activities1.png": "/static/media/Activities1.41b49420c939976bf8ae.png",
+    "static/media/Secretary.png": "/static/media/Secretary.eff18a2d13da4c2ff2e9.png",
+    "static/media/Treasurer.png": "/static/media/Treasurer.16d02bdf811d52b7e539.png",
+    "static/media/VicePres.png": "/static/media/VicePres.9d9128e8f394d4fcdfe4.png",
+    "static/media/Activities2.png": "/static/media/Activities2.4c4c4499a2195411a2c4.png",
+    "static/media/Advisor.png": "/static/media/Advisor.f7d1af5475fb5f4c5efa.png",
+    "static/media/brain.png": "/static/media/brain.0798776ceafc56ec1b1c.png",
+    "static/media/learnbrain.png": "/static/media/learnbrain.6f5eec3ca35f5a450ef6.png",
+    "index.html": "/index.html",
+    "main.f55697a4.css.map": "/static/css/main.f55697a4.css.map",
+    "main.850c8f88.js.map": "/static/js/main.850c8f88.js.map",
+    "787.b945084b.chunk.js.map": "/static/js/787.b945084b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f55697a4.css",
+    "static/js/main.850c8f88.js"
+  ]
+}
